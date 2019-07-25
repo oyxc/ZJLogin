@@ -1,0 +1,16 @@
+PODS:
+  - ZJLogin (0.1.0)
+
+DEPENDENCIES:
+  - ZJLogin (from `../`)
+
+EXTERNAL SOURCES:
+  ZJLogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJLogin: af6c5a1ca95ce1a9a1cf6c1d227d820d736d42e7
+
+PODFILE CHECKSUM: e2a24687ecd99556d53a79d8b8d74c7059e31b58
+
+COCOAPODS: 1.7.4
