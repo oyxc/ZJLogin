@@ -324,10 +324,12 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ZJLogin_Example/Pods-ZJLogin_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ZJLogin/ZJLogin.framework",
+				"${BUILT_PRODUCTS_DIR}/ZJNet/ZJNet.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZJLogin.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZJNet.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
